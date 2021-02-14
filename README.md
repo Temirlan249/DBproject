@@ -1,7 +1,7 @@
 # DBproject
 # Online Bookshop & e-learning
 
-This is an online book shop project. This application is like an online books market place, where user allows to buy books. Here user can also get different types of e-books as pdf books based on the category. This project also has many other cool functionalities.
+This is an online book shop project. We choosed web application. This application is like an online books market place, where user allows to buy books. Here user can also get different types of e-books as pdf books based on the category. This project also has many other cool functionalities.
 
 ## Key features:
 ### User
@@ -24,7 +24,5 @@ This is an online book shop project. This application is like an online books ma
 This project is developed by,
 - HTML, CSS
 - JavaScript (NodeJS and Angular)
-
-Thanks & Regards
 
 #### Have a look to project interface [screenshots](soon) here.
