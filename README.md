@@ -25,4 +25,24 @@ This project is developed by,
 - HTML, CSS
 - JavaScript (NodeJS and Angular)
 
+##Questions
+1) How to register in the store?
+2) Will there be the roles of seller, buyer, or non-authorized user.
+3) Will there be a division of books by genre?
+4) Will there be a division of books by author?
+5) How will the search be carried out according to the given parameters of the book?
+6) Will the seller be able to add a product?
+7) Will the seller be able to edit the product records?
+8) Will the buyer be able to add an item to the cart?
+9) Will the administrator be able to make changes to the data of sellers and buyers?
+10) Will the store have a blacklist of users and sellers?
+11) Will the product have comments from users?
+12) What will be on the store menu?
+13) What product will be displayed on the home page?
+14) Will there be a rating system for books?
+15) How will the new items be displayed on the site?
+
+##Dataset
+https://www.kaggle.com/austinreese/goodreads-books
+
 #### Have a look to project interface [screenshots](soon) here.
