@@ -20,12 +20,12 @@ This is an online book shop project. We choosed web application. This applicatio
 - Admin will deliver the order and print the delivery report.
 - Admin will monitor whole the system.
 
-## Project Development
+### Project Development
 This project is developed by,
 - HTML, CSS
 - JavaScript (NodeJS and Angular)
 
-##Questions
+### Questions
 1) How to register in the store?
 2) Will there be the roles of seller, buyer, or non-authorized user.
 3) Will there be a division of books by genre?
@@ -42,7 +42,7 @@ This project is developed by,
 14) Will there be a rating system for books?
 15) How will the new items be displayed on the site?
 
-##Dataset
+### Dataset
 https://www.kaggle.com/austinreese/goodreads-books
 
 #### Have a look to project interface [screenshots](soon) here.
